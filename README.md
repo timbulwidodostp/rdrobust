@@ -7,6 +7,8 @@ Sharp RD estimates using local polynomial regression Use Package rdrobust With (
 
 Robust nonparametric inference in regression-discontinuity designs Use Package rdrobust With (In) R Software
 
+https://www.youtube.com/watch?v=9wez3dHWl08
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
